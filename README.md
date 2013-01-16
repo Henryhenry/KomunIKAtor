@@ -1,0 +1,4 @@
+KomunIKAtor
+===========
+
+Prywatny, grupowy komunikator
